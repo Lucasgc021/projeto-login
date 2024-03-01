@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+#fundo{
+    background-image: linear-gradient(to left, rgba(120, 2, 131, 0.767), rgba(150, 2, 125, 0.747));
+    width: 350px;
+    height: 500px;
+    color: white;
+    border-radius: 50px;
+    position: absolute;
+    left: 20%;
+    top: 20%;
+    
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 30px;
+    text-shadow: 5px 5px 2px rgba(54, 1, 54, 0.699);
+    
+}
+.campo{
+    margin-left: 80px;
+    margin-top: 50px;
+    font-size: 35px;
+    border-radius: 15px;
+    text-shadow: 5px 5px 2px rgba(54, 1, 54, 0.699);
+
+   
+    
+}
