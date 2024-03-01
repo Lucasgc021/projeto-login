@@ -1,4 +1,7 @@
 @charset "UTF-8";
+html{
+    background-color: rgba(85, 0, 85, 0.438);
+}
 
 div#fundo{
     background-image: linear-gradient(to bottom, rgba(189, 5, 206, 0.767), rgba(102, 41, 84, 0.747));
@@ -13,7 +16,8 @@ div#fundo{
     margin: 0px;
     padding: 0px;
     background-color: black;
-    
+    box-shadow: 3px 3px 0px rgba(54, 1, 54, 0.521);
+
     
 }
 h1{
