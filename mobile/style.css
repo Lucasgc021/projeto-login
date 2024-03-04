@@ -25,7 +25,7 @@ h1{
     font-size: 50px;
     text-align: center;
     padding-top: 30px;
-    text-shadow: 2px 5px 2px rgba(54, 1, 54, 0.699);
+    text-shadow: 2px 2px 2px rgba(54, 1, 54, 0.699);
     
 }
 .campo{
@@ -33,9 +33,35 @@ h1{
     margin-top: 50px;
     font-size: 25px;
     border-radius: 15px;
-    text-shadow: 5px 5px 2px rgba(54, 1, 54, 0.699);
+    text-shadow: 2px 2px 2px rgba(54, 1, 54, 0.699);
 
    
     
 }
+div.campo > i{
+   margin: 0;
+   font-size: 30px;
+   display: block;
+    
+    
+}
+div.campo > input{
+    border-radius: 10px;
+    font-size: 20px;
+    
+
+
+    
+    
+}
+}
+div.campo > input[type=submit]{
+    border-radius: 5px;
+    font-size: 25px;
+    width: 250px;
+    cursor: pointer;
+    
+}
+div.campo > input[type=submit]:hover{
+    background-color: rgba(187, 65, 243, 0.616);
 }
